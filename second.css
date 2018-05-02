@@ -1,0 +1,62 @@
+.quote-box{
+	width:500px;
+	height: auto; 
+	min-height: 100px;
+	background-color: #e6e6e6;
+	margin: 40px auto auto auto;
+	border-radius: 5px;	
+	position: relative;
+	padding-left: 40px;
+	padding-right: 20px;
+	padding-top: 15px;
+	overflow: auto;
+}
+.footer{
+	text-align:center;
+}
+.buttons{
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+.quote-button{
+	padding-left:220px;
+	display: inline-block;
+
+}
+
+body{
+	background-color: #262626;
+}
+.quote-author{
+	opacity: 0.5;
+	font-size: 15px;
+}
+.text{
+	font-size: 20px;
+}
+.chuck{
+	color: white;
+	font-size: 40px;
+	margin-top: -50px;
+	font-family: "times new roman"
+}
+#pic{
+	width: 300px;
+	border-radius: 50%;
+}
+.photo{
+	width: 500px;
+	margin:auto;
+	background-color: #808080;
+}
+.chuck-photo{
+	width: 300px;
+	margin:30px auto auto auto;
+}
+#tweet-quote{
+	font-size: 2em;
+}
+#tumblr-quote{
+	font-size: 2em;
+	margin-left: 20px;
+}
